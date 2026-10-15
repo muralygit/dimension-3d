@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dimension 3D</string>
+    <string name="screen_main">Main Space</string>
+    <string name="screen_media">Media &amp; Hub</string>
+    <string name="screen_tools">Productivity &amp; Labs</string>
+    <string name="tilt_sensor_active">Gyro Sensor Active</string>
+    <string name="tilt_manual_mode">Interactive Drag / Gyro Simulator</string>
+</resources>
